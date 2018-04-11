@@ -1364,7 +1364,7 @@ All effects don't start immediately, but rather get worse over time; the rate is
 	color = "#ffcc66"
 	boozepwr = 30
 	taste_description = "a warm flowery orange taste which recalls the ocean air and summer wind of the caribbean"
-	glass_icon_state = "glass_orange"
+	glass_icon_state = "triple_sec"
 	glass_name = "Triple Sec"
 	glass_desc = "A glass of straight Triple Sec."
 
